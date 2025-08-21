@@ -18,27 +18,23 @@
       <p>Recife – Pernambuco</p>
       <p>📞 (81)9 8330-2397 | ✉ elias.ferreira07@souunit.com.br</p>
       <p>
-        <a href="https://www.linkedin.com/in/seu-usuario">LinkedIn</a> |
-        <a href="https://lattes.cnpq.br/seu-codigo">Currículo Lattes</a> |
+        <a href="">LinkedIn</a> |
         <a href="https://github.com/Lias07e">GitHub</a>
 
    </p>
       <!-- Perfil -->
       <h2>Perfil</h2>
-      <p>Seu perfil profissional em 3–5 linhas. Fale sobre suas áreas de interesse, principais habilidades e objetivos de carreira.</p>
+      <p>Meu nome é Elias , estudei em escola publica maior parte da minha época escolar, por estudar em escola pública 
+      aprendi a estar sempre estudadndo por fora para estar no mesmo nivel que as pessoas que são de escola privada para poder passar no        vestibular e isso  me ensinou que tenho que estar sempre querendo mais e não me conforma com o que tenho,então posso dizer que sou        uma pessoa obstinada e que não desiste facil. </p>
 
       <!-- Formação -->
       <h2>Formação</h2>
       <ul>
         <li>Analise e Desenvolvimento de Sistema(ADS) – UNIT (2025–2027)</li>
-        <li>Outro Curso/Certificação – Instituição (AAAA–AAAA)</li>
-        <li>Curso em andamento – Instituição (AAAA) – Cursando</li>
+        <li>Marketing Digital</li>
+     
       </ul>
-      <!-- Experiência Profissional -->
-      <h2>Experiência Profissional</h2>
-      <ul>
-        <li><b>Seu Cargo</b> – Nome da Empresa (MMM/AAAA – MMM/AAAA)</li>
-        <li><b>Seu Cargo</b> – Nome da Empresa (MMM/AAAA – Atual)</li>
+     
       </ul>
 
       <!-- Projetos -->
@@ -51,9 +47,9 @@
       <!-- Qualificações -->
       <h2>Qualificações</h2>
       <ul>
-        <li>Habilidade/Competência 1</li>
-        <li>Habilidade/Competência 2</li>
-        <li>Habilidade/Competência 3</li>
+        <li>Habilidade/ Sou uma pessoa resiliente  1</li>
+        <li>Habilidade/ Sou uma pessoa comunicativa 2</li>
+        <li>Habilidade/ Trabalho em equipe 3</li>
       </ul>
 
       <!-- Idiomas -->
@@ -66,9 +62,9 @@
       <!-- Informações Adicionais -->
       <h2>Informações Adicionais</h2>
       <ul>
-        <li>Tecnologias: HTML, CSS, JavaScript, Python, …</li>
-        <li>Ferramentas: Pacote Office, Git, Figma, …</li>
-        <li>Outros: Edição de imagens, participação em eventos, voluntariado, …</li>
+        <li>Tecnologias: HTML, CSS(básico), Jaba(básico)</li>
+        <li>Ferramentas:GitHub </li>
+        <li>Outros: criação de post para instagram </li>
       </ul>
 
 body {
