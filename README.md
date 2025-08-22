@@ -25,7 +25,7 @@
       <!-- Perfil -->
       <h2>Perfil</h2>
       <p>Meu nome é Elias , estudei em escola publica maior parte da minha época escolar, por estudar em escola pública 
-      aprendi a estar sempre estudadndo por fora para estar no mesmo nivel que as pessoas que são de escola privada para poder passar no        vestibular e isso  me ensinou que tenho que estar sempre querendo mais e não me conforma com o que tenho,então posso dizer que sou        uma pessoa obstinada e que não desiste facil. </p>
+      aprendi a estar sempre estudadndo por fora para estar no mesmo nivel que as pessoas que são de escola privada para poder passar no        vestibular e isso  me ensinou que tenho que estar sempre querendo mais e não me conforma com o que tenho,então posso dizer que sou        uma pessoa obstinada e que não desiste facil.</p>
 
       <!-- Formação -->
       <h2>Formação</h2>
